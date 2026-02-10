@@ -1,0 +1,22 @@
+#div1{
+    background-color: rgb(117, 44, 180);
+    width: 400px;
+    height: 350px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+.b1{
+    margin-left: 100px !important;
+    margin: 20px;
+}
+
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
